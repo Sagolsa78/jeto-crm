@@ -1,0 +1,53 @@
+{
+  "source_files": [
+    {
+      "file": "Pasted text(20261020-100048).txt",
+      "purpose": "Compiled React/webpack frontend bundle; page routes, components, Firebase config, auth and Vercel Speed Insights initialization."
+    },
+    {
+      "file": "Pasted text (2)(20261020-100546).txt",
+      "purpose": "API service wrapper; backend endpoints and legacy provider/service integrations."
+    },
+    {
+      "file": "Pasted text(20261020-100537).txt",
+      "purpose": "Vercel Speed Insights web-vitals telemetry implementation."
+    }
+  ],
+  "counts": {
+    "frontend_route_strings": 91,
+    "api_call_occurrences": 439,
+    "unique_api_method_path_pairs": 436,
+    "methods": {
+      "DELETE": 2,
+      "GET": 316,
+      "PATCH": 27,
+      "POST": 91
+    },
+    "api_categories": {
+      "Visa, documents & files": 9,
+      "Analytics & reporting": 48,
+      "Trips & sales pipeline": 98,
+      "General / unclassified": 23,
+      "HR, attendance & assets": 17,
+      "Leads & lead acquisition": 34,
+      "Authentication & session": 15,
+      "Customers & contacts": 22,
+      "Hotels, tours & suppliers": 37,
+      "Quotations & proposals": 19,
+      "AI & automation": 30,
+      "Flights & air bookings": 28,
+      "Tasks & projects": 20,
+      "Finance, payments & currency": 12,
+      "Marketing, messaging & telephony": 22,
+      "Configuration & integrations": 2
+    }
+  },
+  "legacy_base_urls": [
+    "https://jeto-crm-server.onrender.com",
+    "https://web-production-6467.up.railway.app",
+    "https://jetovacations.in (commented legacy reference)",
+    "https://jetocrm-server.azurewebsites.net (commented legacy reference)",
+    "https://jetocrm-project.herokuapp.com (commented legacy reference)"
+  ],
+  "limits": "Only three client-side files were supplied. No backend route registry, database schema, migrations, backend source, environment configuration, deployment settings, or integration provider docs were supplied. Literal frontend paths are not proof of actual backend route registration or successful behavior."
+}

@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: jeto-crm-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: jeto_admin
+      POSTGRES_PASSWORD: jeto_secure_password_2026!
+      POSTGRES_DB: jeto_crm
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U jeto_admin -d jeto_crm"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build:
+      context: ../services/api
+      dockerfile: Dockerfile
+    container_name: jeto-crm-api
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql://jeto_admin:jeto_secure_password_2026!@db:5432/jeto_crm
+      SECRET_KEY: jeto_production_jwt_secret_key_change_in_real_prod!
+      CORS_ORIGINS: '["http://localhost:3000","http://localhost:3001","https://crm.jetovacations.com"]'
+    ports:
+      - "8000:8000"
+
+  web:
+    build:
+      context: ../apps/crm-web
+      dockerfile: Dockerfile
+    container_name: jeto-crm-web
+    restart: unless-stopped
+    depends_on:
+      - api
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8000/api/v1
+    ports:
+      - "3001:3001"
+
+volumes:
+  postgres_data:

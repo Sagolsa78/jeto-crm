@@ -1,0 +1,92 @@
+path,category,source_file
+*,General / system,Pasted text(20261020-100048).txt
+/,General / system,Pasted text(20261020-100048).txt
+/analyticsadmin,Dashboard & analytics,Pasted text(20261020-100048).txt
+/analyticsdata,Dashboard & analytics,Pasted text(20261020-100048).txt
+/bulkmsg,Marketing & communications,Pasted text(20261020-100048).txt
+/canddataentry,Workforce & operations,Pasted text(20261020-100048).txt
+/canddataentry/:id,Workforce & operations,Pasted text(20261020-100048).txt
+/chat,Marketing & communications,Pasted text(20261020-100048).txt
+/custdataentry,Customers,Pasted text(20261020-100048).txt
+/custdataentry/:id,Customers,Pasted text(20261020-100048).txt
+/dashboard,Dashboard & analytics,Pasted text(20261020-100048).txt
+/duptourentry/:id,Inventory & suppliers,Pasted text(20261020-100048).txt
+/duptripentry,Trips & post-sales,Pasted text(20261020-100048).txt
+/employeedataentry,Workforce & operations,Pasted text(20261020-100048).txt
+/employeedataentry/:id,Workforce & operations,Pasted text(20261020-100048).txt
+/engine.io,General / system,Pasted text(20261020-100048).txt
+/fddataentry,Inventory & suppliers,Pasted text(20261020-100048).txt
+/fddataentry/:id,Inventory & suppliers,Pasted text(20261020-100048).txt
+/flightapi,Flights & bookings,Pasted text(20261020-100048).txt
+/flightbook,Flights & bookings,Pasted text(20261020-100048).txt
+/flightview,Flights & bookings,Pasted text(20261020-100048).txt
+/home,Dashboard & analytics,Pasted text(20261020-100048).txt
+/hotelapi,Inventory & suppliers,Pasted text(20261020-100048).txt
+/hotelbook,Inventory & suppliers,Pasted text(20261020-100048).txt
+/hoteldataentry,Inventory & suppliers,Pasted text(20261020-100048).txt
+/hoteldataentry/:id,Inventory & suppliers,Pasted text(20261020-100048).txt
+/hotelview,Inventory & suppliers,Pasted text(20261020-100048).txt
+/hotelvoucher,Inventory & suppliers,Pasted text(20261020-100048).txt
+/info,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/SriLanka,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/andaman,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/azerbaijan,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/dubai,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/goa,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/himachal,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/indonesia,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/kashmir,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/kazakhstan,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/kerala,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/ladakh,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/malaysia,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/sikkim-darjeeling,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/singapore,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/thailand,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/turkey,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledge/vietnam,Knowledge & resources,Pasted text(20261020-100048).txt
+/knowledgecenter,Knowledge & resources,Pasted text(20261020-100048).txt
+/lead,Leads,Pasted text(20261020-100048).txt
+/lead/:id,Leads,Pasted text(20261020-100048).txt
+/leadcaptureform,Leads,Pasted text(20261020-100048).txt
+/leadrules,Leads,Pasted text(20261020-100048).txt
+/leadtripdataentry,Leads,Pasted text(20261020-100048).txt
+/listassetdata,Workforce & operations,Pasted text(20261020-100048).txt
+/listcustdata,Customers,Pasted text(20261020-100048).txt
+/listemployeedata,Workforce & operations,Pasted text(20261020-100048).txt
+/listfddata,Inventory & suppliers,Pasted text(20261020-100048).txt
+/listhoteldata,Inventory & suppliers,Pasted text(20261020-100048).txt
+/listhrdata,Workforce & operations,Pasted text(20261020-100048).txt
+/listquotedata,Quotations,Pasted text(20261020-100048).txt
+/listsupplierdata,Inventory & suppliers,Pasted text(20261020-100048).txt
+/listtaskdata,Workforce & operations,Pasted text(20261020-100048).txt
+/listtourdata,Inventory & suppliers,Pasted text(20261020-100048).txt
+/listtripsdata,Trips & post-sales,Pasted text(20261020-100048).txt
+/marketing,Marketing & communications,Pasted text(20261020-100048).txt
+/postsalesdata,Trips & post-sales,Pasted text(20261020-100048).txt
+/productanalytics,Dashboard & analytics,Pasted text(20261020-100048).txt
+/productbased,General / system,Pasted text(20261020-100048).txt
+/projects,Workforce & operations,Pasted text(20261020-100048).txt
+/quotedataentry,Quotations,Pasted text(20261020-100048).txt
+/quotedataentry/:id,Quotations,Pasted text(20261020-100048).txt
+/reusequote,Quotations,Pasted text(20261020-100048).txt
+/salessupport,Trips & post-sales,Pasted text(20261020-100048).txt
+/searchcust,Customers,Pasted text(20261020-100048).txt
+/searchhotel,Inventory & suppliers,Pasted text(20261020-100048).txt
+/searchtrip,Trips & post-sales,Pasted text(20261020-100048).txt
+/supplierdataentry,Inventory & suppliers,Pasted text(20261020-100048).txt
+/supplierdataentry/:id,Inventory & suppliers,Pasted text(20261020-100048).txt
+/supplierdatarecord/:id,Inventory & suppliers,Pasted text(20261020-100048).txt
+/taskdataentry,Workforce & operations,Pasted text(20261020-100048).txt
+/taskdataentry/:id,Workforce & operations,Pasted text(20261020-100048).txt
+/test,General / system,Pasted text(20261020-100048).txt
+/tlhome,Dashboard & analytics,Pasted text(20261020-100048).txt
+/tourdataentry,Inventory & suppliers,Pasted text(20261020-100048).txt
+/tourdataentry/:id,Inventory & suppliers,Pasted text(20261020-100048).txt
+/tripdataentry,Trips & post-sales,Pasted text(20261020-100048).txt
+/tripdataentry/:id,Trips & post-sales,Pasted text(20261020-100048).txt
+/tripdataentry/:id/invoice,Trips & post-sales,Pasted text(20261020-100048).txt
+/tripdataentry/:id/payments,Trips & post-sales,Pasted text(20261020-100048).txt
+/tripdataentry/:id/paymentupdate,Trips & post-sales,Pasted text(20261020-100048).txt
+/viewquote/:id,Quotations,Pasted text(20261020-100048).txt
+/viewvoucher,Flights & bookings,Pasted text(20261020-100048).txt

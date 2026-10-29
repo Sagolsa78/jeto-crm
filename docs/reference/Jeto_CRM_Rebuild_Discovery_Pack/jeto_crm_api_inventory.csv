@@ -1,0 +1,437 @@
+method,path,category,functions,calls_detected,source_file
+DELETE,/deletedocs,"Visa, documents & files",deletefile,1,Pasted text (2)(20261020-100546).txt
+DELETE,/imgdelete,"Visa, documents & files",imgdelete,1,Pasted text (2)(20261020-100546).txt
+GET,/12pmreport,Analytics & reporting,get12pmreport,1,Pasted text (2)(20261020-100546).txt
+GET,/activefunnellength,Trips & sales pipeline,getactivefunnellength,1,Pasted text (2)(20261020-100546).txt
+GET,/activetripcount,Trips & sales pipeline,fetchactivetripscount,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsalldata,Analytics & reporting,searchallTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsbodata,Analytics & reporting,searchboTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsbodata2,Analytics & reporting,searchboTripsbyDate2,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsbodata3,Analytics & reporting,searchboTripsbyDate3,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticscalldata,Analytics & reporting,fetchupdatedtripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticscancdata,Analytics & reporting,searchcancTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticscloseddabdata,Analytics & reporting,searchclosedDABTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticscloseddata,Analytics & reporting,searchclosedTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsconvdata,Analytics & reporting,searchconvTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsconvdata2,Analytics & reporting,searchconvTripsbyDate2,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsdabdata,Analytics & reporting,searchDABTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsdata,Analytics & reporting,searchTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticshotdata,Analytics & reporting,searchhotTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticshotdata2,Analytics & reporting,searchhotTripsbyDate2,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsleadsdata,Analytics & reporting,searchLeadsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsleadsdata3,Analytics & reporting,searchLeadsbyDate3,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsnewqedata,Analytics & reporting,newsearchQEbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsnewqedata2,Analytics & reporting,newsearchQEbyDate2,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsnewqedataowner,Analytics & reporting,newsearchQEbyDateandOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticspotdata,Analytics & reporting,searchpotentialTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsqcdata,Analytics & reporting,searchQCbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsqcdataowner,Analytics & reporting,searchQCbyDateandOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsqedata,Analytics & reporting,searchQEbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsqedataowner,Analytics & reporting,searchQEbyDateandOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsquotedata,Analytics & reporting,searchQuotesbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticsstartdata,Analytics & reporting,searchconvTripsbyStartDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticssuperhotdata,Analytics & reporting,searchsuperhotTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/analyticstripsdata,Analytics & reporting,searchTripsbyDate2,1,Pasted text (2)(20261020-100546).txt
+GET,/bookertripstl,Trips & sales pipeline,fetchbookertripsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/bookertripstl1,Trips & sales pipeline,fetchbookertripsTL1,1,Pasted text (2)(20261020-100546).txt
+GET,/bookertripstl2,Trips & sales pipeline,fetchbookertripsTL2,1,Pasted text (2)(20261020-100546).txt
+GET,/bookertripstl3,Trips & sales pipeline,fetchbookertripsTL3,1,Pasted text (2)(20261020-100546).txt
+GET,/bookertripstl4,Trips & sales pipeline,fetchbookertripsTL4,1,Pasted text (2)(20261020-100546).txt
+GET,/bookertripstl5,Trips & sales pipeline,fetchbookertripsTL5,1,Pasted text (2)(20261020-100546).txt
+GET,/bookertripstl6,Trips & sales pipeline,fetchbookertripsTL6,1,Pasted text (2)(20261020-100546).txt
+GET,/cancflagcheck,General / unclassified,runcancflagcheck,1,Pasted text (2)(20261020-100546).txt
+GET,/canctripbytripid,Trips & sales pipeline,canceltripbytripid,1,Pasted text (2)(20261020-100546).txt
+GET,/canddataentry/,"HR, attendance & assets",fetchCandidatebyId,1,Pasted text (2)(20261020-100546).txt
+GET,/checkfastreach,Leads & lead acquisition,checkfastreach,1,Pasted text (2)(20261020-100546).txt
+GET,/commentedbydate,General / unclassified,fetchcommentedbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/convdateowner,Trips & sales pipeline,searchconvTripsbyDatenOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/createdtripsbydate,Trips & sales pipeline,searchcreatedTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/createsignin,Authentication & session,createsignin,1,Pasted text (2)(20261020-100546).txt
+GET,/cronreport,Analytics & reporting,cronreport,1,Pasted text (2)(20261020-100546).txt
+GET,/currentreport,Analytics & reporting,fetchcurrentreport,1,Pasted text (2)(20261020-100546).txt
+GET,/custdataentry/,Customers & contacts,fetchCustomerbyId,1,Pasted text (2)(20261020-100546).txt
+GET,/downloadfile,"Visa, documents & files",downloadfile,1,Pasted text (2)(20261020-100546).txt
+GET,/dupcustcheck,Customers & contacts,dupcustCheck,1,Pasted text (2)(20261020-100546).txt
+GET,/dupcustnumbercheck,Customers & contacts,dupcustnumberCheck,1,Pasted text (2)(20261020-100546).txt
+GET,/duphotelcheck,"Hotels, tours & suppliers",duphotelCheck,1,Pasted text (2)(20261020-100546).txt
+GET,/dupleadcheck,Leads & lead acquisition,dupleadCheck,1,Pasted text (2)(20261020-100546).txt
+GET,/duplicatetrips,Trips & sales pipeline,duplicatetrips,1,Pasted text (2)(20261020-100546).txt
+GET,/dupquotecheck,Quotations & proposals,dupquoteCheck,1,Pasted text (2)(20261020-100546).txt
+GET,/duptourcheck,"Hotels, tours & suppliers",duptourCheck,1,Pasted text (2)(20261020-100546).txt
+GET,/duptripcheck,Trips & sales pipeline,duptripCheck,1,Pasted text (2)(20261020-100546).txt
+GET,/duptripnumberCheck,Trips & sales pipeline,duptripnumberCheck,1,Pasted text (2)(20261020-100546).txt
+GET,/employeedataentry/,"HR, attendance & assets",fetchEmployeebyId,1,Pasted text (2)(20261020-100546).txt
+GET,/employeedatasearch/,"HR, attendance & assets",fetchEmployeebyName,1,Pasted text (2)(20261020-100546).txt
+GET,/employeedatasearchbymail/,AI & automation,fetchEmployeebyEmail,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchallcand,"HR, attendance & assets",fetchallCandidates,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchallflightbooking,Flights & air bookings,fetchflightallbooking,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchallrezbooking,Flights & air bookings,fetchrezallbooking,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchasset,"HR, attendance & assets",fetchAsset,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchcandbydate,"HR, attendance & assets",fetchCandidatesbycreateddate,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchcandbynumber,"HR, attendance & assets",fetchCandidatesbynumber,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchcandbyscheddate,"HR, attendance & assets",fetchCandidatesbyscheduleddate,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchflightconfirmBooking,Flights & air bookings,fetchflightconfbooking,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchopentasks,Tasks & projects,fetchopentasks,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchrezconfbooking,Flights & air bookings,fetchrezconfbooking,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchrules,"HR, attendance & assets",fetchRules,1,Pasted text (2)(20261020-100546).txt
+GET,/fetchstatushistory,General / unclassified,fetchstatushistory,1,Pasted text (2)(20261020-100546).txt
+GET,/findtripbypayment,"Finance, payments & currency",findtripbypayment,1,Pasted text (2)(20261020-100546).txt
+GET,/fivedayprojection,Analytics & reporting,fivedayprojection,1,Pasted text (2)(20261020-100546).txt
+GET,/fup,Trips & sales pipeline,fetchFollowups,1,Pasted text (2)(20261020-100546).txt
+GET,/fupcount,Analytics & reporting,fupcount,1,Pasted text (2)(20261020-100546).txt
+GET,/getchat24,"Marketing, messaging & telephony",getchat24,1,Pasted text (2)(20261020-100546).txt
+GET,/getchatbydate,"Marketing, messaging & telephony",getchatbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/getfdbydest/,General / unclassified,fetchFdbyDest,1,Pasted text (2)(20261020-100546).txt
+GET,/getfdbyid/,General / unclassified,fetchFdbyId,1,Pasted text (2)(20261020-100546).txt
+GET,/gethottrips,Trips & sales pipeline,gethottrips,1,Pasted text (2)(20261020-100546).txt
+GET,/getmanualfr,General / unclassified,getmanualfr,1,Pasted text (2)(20261020-100546).txt
+GET,/getmanualfrbydate,General / unclassified,getmanualfrbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/getmanualfrbydate2,General / unclassified,getmanualfrbydate2,1,Pasted text (2)(20261020-100546).txt
+GET,/getprojection,Analytics & reporting,getprojectionfromserver,1,Pasted text (2)(20261020-100546).txt
+GET,/getquerybyid/,General / unclassified,getQuerybyId,1,Pasted text (2)(20261020-100546).txt
+GET,/getquerybysupplier,"Hotels, tours & suppliers",updateQuerysupplier,1,Pasted text (2)(20261020-100546).txt
+GET,/getquotefromlist,Quotations & proposals,fetchquotefromlist,1,Pasted text (2)(20261020-100546).txt
+GET,/getquotefromlist2,Quotations & proposals,fetchquotefromlist2,1,Pasted text (2)(20261020-100546).txt
+GET,/getsignin,Authentication & session,getsignin,1,Pasted text (2)(20261020-100546).txt
+GET,/gettreport,Analytics & reporting,gettlreport,1,Pasted text (2)(20261020-100546).txt
+GET,/home/all,Trips & sales pipeline,fetchConvertedTripsbyTripOwnerOnly,1,Pasted text (2)(20261020-100546).txt
+GET,/home/canc,General / unclassified,fetchCanc,1,Pasted text (2)(20261020-100546).txt
+GET,/home/cancowner,General / unclassified,fetchCancbyOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/home/canctl,General / unclassified,fetchCancbyTL,1,Pasted text (2)(20261020-100546).txt
+GET,/home/owner,Trips & sales pipeline,fetchConvertedTrips,1,Pasted text (2)(20261020-100546).txt
+GET,/hoteldataentry/,"Hotels, tours & suppliers",fetchHotelbyId,1,Pasted text (2)(20261020-100546).txt
+GET,/hottripstl,Trips & sales pipeline,fetchhottripsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/lead/,Leads & lead acquisition,fetchLeadbyId,1,Pasted text (2)(20261020-100546).txt
+GET,/leadassignment,Leads & lead acquisition,leadassignment,1,Pasted text (2)(20261020-100546).txt
+GET,/leadbasedcustdata,Leads & lead acquisition,fetchleadbasedcustdata,1,Pasted text (2)(20261020-100546).txt
+GET,/listCustOpenbySP,Analytics & reporting,openfupcountbysp,1,Pasted text (2)(20261020-100546).txt
+GET,/listactivebydate,Trips & sales pipeline,searchActiveTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/listactivefd,General / unclassified,fetchactiveFd,1,Pasted text (2)(20261020-100546).txt
+GET,/listactiveluxury,General / unclassified,getactiveluxury,1,Pasted text (2)(20261020-100546).txt
+GET,/listconvcustdata,Customers & contacts,fetchconvcustdata,1,Pasted text (2)(20261020-100546).txt
+GET,/listcurrency,"Finance, payments & currency",fetchCurrencyData,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata,Customers & contacts,fetchActiveCustomers,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/all,Customers & contacts,fetchCustomers,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/custbydate,Customers & contacts,fetchCustomerbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/custbydate2,Customers & contacts,fetchCustomerbyDate2,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/loyalty,Customers & contacts,getloyalty,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/mobilenumber,Customers & contacts,fetchCustomerbyNumber,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/open,Customers & contacts,fetchOpenCustomers,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/owner,Customers & contacts,fetchCustomersbyOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/tl,Customers & contacts,fetchCustomersbyTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/today,Customers & contacts,fetchtodaycust,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdata/todaytl,Customers & contacts,fetchtodaycustTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listcustdatabydob,Customers & contacts,fetchcustbydob,1,Pasted text (2)(20261020-100546).txt
+GET,/listdest,General / unclassified,fetchDest,1,Pasted text (2)(20261020-100546).txt
+GET,/listemployeedata,"HR, attendance & assets",fetchEmployees,1,Pasted text (2)(20261020-100546).txt
+GET,/listfd,General / unclassified,fetchallFd,1,Pasted text (2)(20261020-100546).txt
+GET,/listhoteldata,"Hotels, tours & suppliers",fetchHotels,1,Pasted text (2)(20261020-100546).txt
+GET,/listhoteldata/dest,"Hotels, tours & suppliers",fetchdestHotelsbyDest,1,Pasted text (2)(20261020-100546).txt
+GET,/listhoteldata/destandcity,"Hotels, tours & suppliers",fetchdestHotelsbyDestandCity,1,Pasted text (2)(20261020-100546).txt
+GET,/listhoteldata/name,"Hotels, tours & suppliers",fetchHotelsname,1,Pasted text (2)(20261020-100546).txt
+GET,/listhoteldata/quoteid,"Hotels, tours & suppliers",fetchdestHotelsbyQuoteid,1,Pasted text (2)(20261020-100546).txt
+GET,/listhoteldata/tripid,"Hotels, tours & suppliers",fetchdestHotels,1,Pasted text (2)(20261020-100546).txt
+GET,/listinboundcalls,"Marketing, messaging & telephony",fetchIncomingCalls,1,Pasted text (2)(20261020-100546).txt
+GET,/listinfodata,Configuration & integrations,fetchInfo,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/all,Leads & lead acquisition,fetchLeads,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/assignedtoday,Leads & lead acquisition,fetchtodayassignedleads,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/assignedtodaytl,Leads & lead acquisition,fetchtodayassignedleadsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/auditcallbydate,"Marketing, messaging & telephony",fetchauditleadcallbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/callbyauditdate,"Marketing, messaging & telephony",fetchleadcallbyauditdate,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/callbydate,"Marketing, messaging & telephony",fetchleadcallbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/calltoday,"Marketing, messaging & telephony",fetchleadcalltoday,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/getfastreach,Analytics & reporting,fetchworkdonefastreach,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/last10mins,Leads & lead acquisition,fetchLeads10mins,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/last15days,Leads & lead acquisition,fetchLeads15,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/leadbydate2,Leads & lead acquisition,fetchleadsbydate2,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/leadbyid2/,Leads & lead acquisition,fetchleadsbyid2,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/leademail,AI & automation,fetchLeadsbyEmail,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/leadnumber,Leads & lead acquisition,fetchLeadsbyNumber,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/leadowner,Leads & lead acquisition,fetchLeadsbyTripOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/leadtl,Leads & lead acquisition,fetchLeadsbyTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/listLeads7to90,Leads & lead acquisition,fetchLeads7to90,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/name,Leads & lead acquisition,fetchLeadsbyName,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/tlcallbydate,"Marketing, messaging & telephony",fetchleadcallbydateTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/today,Leads & lead acquisition,fetchtodayleads,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/todayowner,Leads & lead acquisition,fetchLeadsTodaybyTripOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/workdonebydate,Analytics & reporting,fetchworkdoneleadsbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/workdonetoday,Analytics & reporting,fetchworkdoneleads,1,Pasted text (2)(20261020-100546).txt
+GET,/listleadsdata/workfalseleads,Leads & lead acquisition,fetchworkfalseleads,1,Pasted text (2)(20261020-100546).txt
+GET,/listluxuryquotedata,Quotations & proposals,getluxuryquotes,1,Pasted text (2)(20261020-100546).txt
+GET,/listmktngcustdata,"Marketing, messaging & telephony",fetchmarketingcustlist,1,Pasted text (2)(20261020-100546).txt
+GET,/listmktngcustdata2,"Marketing, messaging & telephony",fetchmarketingcustlist2,1,Pasted text (2)(20261020-100546).txt
+GET,/listmktngcustdata3,"Marketing, messaging & telephony",fetchmarketingcustlist3,1,Pasted text (2)(20261020-100546).txt
+GET,/listprojectdata,Tasks & projects,fetchProjects,1,Pasted text (2)(20261020-100546).txt
+GET,/listqmtripsdata,Trips & sales pipeline,fetchQMTrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listquotedata,Quotations & proposals,fetchfavQuotes,1,Pasted text (2)(20261020-100546).txt
+GET,/listquotedatabyidgroup,Quotations & proposals,fetchQuotebyIdGroup,1,Pasted text (2)(20261020-100546).txt
+GET,/listquotesdata/dest,Quotations & proposals,fetchfavQuotesbyDest,1,Pasted text (2)(20261020-100546).txt
+GET,/listquotesdata/edittoday,Quotations & proposals,fetchtodayeditquotes,1,Pasted text (2)(20261020-100546).txt
+GET,/listquotesdata/edittodaytl,Quotations & proposals,fetchtodayeditquotesTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listquotesdata/getquotedatesonly,Quotations & proposals,fetchquotedatesonly,1,Pasted text (2)(20261020-100546).txt
+GET,/listquotesdata/getquotefromtrip,Quotations & proposals,fetchquotefromtrip,1,Pasted text (2)(20261020-100546).txt
+GET,/listquotesdata/today,Quotations & proposals,fetchtodayquotes,1,Pasted text (2)(20261020-100546).txt
+GET,/listquotesdata/todaytl,Quotations & proposals,fetchtodayquotesTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listsupplierdata,"Hotels, tours & suppliers",fetchSuppliers,1,Pasted text (2)(20261020-100546).txt
+GET,/listsupplierdata/dest,"Hotels, tours & suppliers",fetchSuppliersbyDest,1,Pasted text (2)(20261020-100546).txt
+GET,/listsupplierdata/dest2,"Hotels, tours & suppliers",fetchSuppliersbyDest2,1,Pasted text (2)(20261020-100546).txt
+GET,/listsvToken,Authentication & session,listsvtoken,1,Pasted text (2)(20261020-100546).txt
+GET,/listtaskcount/taskowner,Tasks & projects,fetchtaskcount,1,Pasted text (2)(20261020-100546).txt
+GET,/listtaskdata/taskowner,Tasks & projects,fetchTasksbyOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/listtaskdata/tripid,Tasks & projects,fetchtaskbytripid,1,Pasted text (2)(20261020-100546).txt
+GET,/listtoken,Authentication & session,fetchTokenData,1,Pasted text (2)(20261020-100546).txt
+GET,/listtourdata,"Hotels, tours & suppliers",fetchTours,1,Pasted text (2)(20261020-100546).txt
+GET,/listtourdata/dest,"Hotels, tours & suppliers",fetchdestToursbyDest,1,Pasted text (2)(20261020-100546).txt
+GET,/listtourdata/quoteid,"Hotels, tours & suppliers",fetchdestToursbyQuoteid,1,Pasted text (2)(20261020-100546).txt
+GET,/listtourdata/tripid,"Hotels, tours & suppliers",fetchdestTours,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata,Trips & sales pipeline,fetchActiveTrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/acceptedtrips,Trips & sales pipeline,fetchacceptedtripsbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/account,"Finance, payments & currency",fetchtripsbyaccount,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/airline,AI & automation,fetchtripsbyairline,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/all,Trips & sales pipeline,fetchTrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/auditcallbydate,"Marketing, messaging & telephony",fetchaudittripcallbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/auditcallbydate2,"Marketing, messaging & telephony",fetchaudittripcallbydate2,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/callbyauditdate,"Marketing, messaging & telephony",fetchtripcallbyauditdate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/callbydate,"Marketing, messaging & telephony",fetchtripcallbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/calltoday,"Marketing, messaging & telephony",fetchtripcalltoday,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/cancelledbyDate,Trips & sales pipeline,searchcancelledTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/cancflagbyDate,Trips & sales pipeline,fetchcancflagbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/cancflagbyDateandowner,Trips & sales pipeline,fetchcancflagbydateandowner,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/canctoday,Trips & sales pipeline,fetchtodaycanctrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/canctodaytl,Trips & sales pipeline,fetchtodaycanctripsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/competitiondate,Trips & sales pipeline,fetchTripsbyCompetitionDate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/convonly,Trips & sales pipeline,fetchConvertedTripsOnly,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/convowner,Trips & sales pipeline,fetchConvertedTripsbyTripOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/convtl,Trips & sales pipeline,fetchConvertedTripsbyTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/convtlndate,Trips & sales pipeline,fetchConvertedTripsbyTLnDate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/convtoday,Trips & sales pipeline,fetchtodayconvtrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/convtodaytl,Trips & sales pipeline,fetchtodayconvtripsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/dest,Trips & sales pipeline,fetchTripsbyDest,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/fetchtitaniumtrips,Trips & sales pipeline,fetchtripbycreateddate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/fetchtripbyhotelid,"Hotels, tours & suppliers",fetchConvertedTripsbyHotelid,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/fetchtripbyhotelid2,"Hotels, tours & suppliers",fetchConvertedTripsbyHotelid2,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/fetchtripbytourid,"Hotels, tours & suppliers",fetchConvertedTripsbyTourid,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/fetchtriphistory,Trips & sales pipeline,fetchtriphistory,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/funnellength,Trips & sales pipeline,fetchfunnellength,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/funnelsize,Trips & sales pipeline,fetchfunnelsize,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/fupbydate,Trips & sales pipeline,fetchfupbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/fuptoday,Trips & sales pipeline,fetchtodayfup,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/fuptodaytl,Trips & sales pipeline,fetchtodayfupTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/futureconv,Trips & sales pipeline,fetchfutureconvTrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/getbyairport,AI & automation,fetchtripsbyairport,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/getconvdate,Trips & sales pipeline,fetchconvdate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/getluxury,Trips & sales pipeline,getluxury,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/getpostponed,Trips & sales pipeline,getallPostponedtrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/hottoday,Trips & sales pipeline,fetchtodayhottrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/hottodaytl,Trips & sales pipeline,fetchtodayhottripsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/mobilenumber,Trips & sales pipeline,fetchTripsbyNumber,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/name,Trips & sales pipeline,fetchTripsbyName,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/nrfupbydate,Trips & sales pipeline,fetchnrfupbydate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/overridetrips,Trips & sales pipeline,overrideTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/paid,AI & automation,fetchtripsbypaid,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/personalconv,Trips & sales pipeline,searchpersonalConvTripsbyStartDate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/pintrip,Trips & sales pipeline,fetchpintrip,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/postponedfup,Trips & sales pipeline,getPostponedtrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/postponedlength,Trips & sales pipeline,fetchpostponedlength,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/postponedtoday,Trips & sales pipeline,fetchtodaypostponedtrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/postponedtodaytl,Trips & sales pipeline,fetchtodaypostponedtripsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/profittrips,"Finance, payments & currency",gethighprofitsearch,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/receipt,"Finance, payments & currency",fetchtripsbyreceipt,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/reftrips,"HR, attendance & assets",fetchReftrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/refund,"Finance, payments & currency",fetchtripsbyrefund,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/searchbyholdops,Trips & sales pipeline,fetchbyholdops,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/searchtripsbybookingdate,Flights & air bookings,fetchtripsbybookingdate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/status,Trips & sales pipeline,fetchTripsbyStatus,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/statusowner,Trips & sales pipeline,fetchTripsbyStatusandOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/statustl,Trips & sales pipeline,fetchTripsbyStatusTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/supplierbookingrecord,Flights & air bookings,getsupplierbookingrecord,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/supplierinternal,AI & automation,fetchtripsbypaidinternalteam,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/supplierpaymentrecord,"Finance, payments & currency",getsupplierrecord,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/supplierpending,"Hotels, tours & suppliers",fetchtripsbysupplierpending,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/supplierrefund,"Finance, payments & currency",fetchtripsbysupplierrefund,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/tcsquery,Trips & sales pipeline,fetchtcsquery,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/tl,Trips & sales pipeline,fetchActiveTripsbyTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/tlcallbydate,"Marketing, messaging & telephony",fetchtripcallbydateTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/today,Trips & sales pipeline,fetchtodaytrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/todaytl,Trips & sales pipeline,fetchtodaytripsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/tripfupowner,Trips & sales pipeline,fetchActiveFupTripsbyTripOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/tripowner,Trips & sales pipeline,fetchActiveTripsbyTripOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/updatedbydate,Trips & sales pipeline,searchupdatedTripsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/upsell,"Finance, payments & currency",getupsellprofit,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdata/viewprojection,Analytics & reporting,viewprojection,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsdatatl,Trips & sales pipeline,fetchActiveTripsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listtripsfupdata,Trips & sales pipeline,fetchActiveFupTrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listupdatedleadsdata,Leads & lead acquisition,searchupdatedLeadsbyDate,1,Pasted text (2)(20261020-100546).txt
+GET,/listupdatedleadsdata/tl,Leads & lead acquisition,fetchtodayupdatedleadsTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listupdatedleadsdata/today,Leads & lead acquisition,fetchtodayupdatedleads,1,Pasted text (2)(20261020-100546).txt
+GET,/listupdatedtripsdata/today,Trips & sales pipeline,fetchupdatedtodaytrips,1,Pasted text (2)(20261020-100546).txt
+GET,/listupdatedtripsdata/todaytl,Trips & sales pipeline,fetchupdatedtripstodayTL,1,Pasted text (2)(20261020-100546).txt
+GET,/listvisa,"Visa, documents & files",fetchVisaData,1,Pasted text (2)(20261020-100546).txt
+GET,/listwadata/all,Analytics & reporting,fetchwadata,1,Pasted text (2)(20261020-100546).txt
+GET,/listwareportdata,Analytics & reporting,getWAdata,1,Pasted text (2)(20261020-100546).txt
+GET,/morningfupcount,Analytics & reporting,currentfupcount,1,Pasted text (2)(20261020-100546).txt
+GET,/newleadassignment,Leads & lead acquisition,newleadassignment,1,Pasted text (2)(20261020-100546).txt
+GET,/notrecohotels,"Hotels, tours & suppliers",notrecohotel,1,Pasted text (2)(20261020-100546).txt
+GET,/potentialdata,Trips & sales pipeline,fetchpotentialdata,1,Pasted text (2)(20261020-100546).txt
+GET,/potentialhot,Trips & sales pipeline,fetchpotentialhot,1,Pasted text (2)(20261020-100546).txt
+GET,/projectdataentry/,Tasks & projects,fetchProjectbyId,1,Pasted text (2)(20261020-100546).txt
+GET,/projectdatasearchbydept/,Tasks & projects,fetchProjectbyDept,1,Pasted text (2)(20261020-100546).txt
+GET,/quotedataentry/,Quotations & proposals,fetchQuotebyId,1,Pasted text (2)(20261020-100546).txt
+GET,/quotelist,Quotations & proposals,fetchquotelist,1,Pasted text (2)(20261020-100546).txt
+GET,/quotetoday,Quotations & proposals,fetchquotetoday,1,Pasted text (2)(20261020-100546).txt
+GET,/reactivatebydate,Trips & sales pipeline,reactivatebydate,1,Pasted text (2)(20261020-100546).txt
+GET,/reactivatetrip/,Trips & sales pipeline,reactivatebyNumber,1,Pasted text (2)(20261020-100546).txt
+GET,/remarketing,Customers & contacts,fetchmarketingcustlist4,1,Pasted text (2)(20261020-100546).txt
+GET,/report12pm,Analytics & reporting,report12pm,1,Pasted text (2)(20261020-100546).txt
+GET,/reviewhotel,"Hotels, tours & suppliers",fetchreviewhotel,1,Pasted text (2)(20261020-100546).txt
+GET,/runcancflag,General / unclassified,cancflag,1,Pasted text (2)(20261020-100546).txt
+GET,/searchconvtripbystartdate,Trips & sales pipeline,searchConvTripsbyStartDate,1,Pasted text (2)(20261020-100546).txt
+GET,/searchcreatedbydateowner,Trips & sales pipeline,searchTripsbycreateddateandOwner,1,Pasted text (2)(20261020-100546).txt
+GET,/searchcustbyemail,AI & automation,searchCustomersbymail,1,Pasted text (2)(20261020-100546).txt
+GET,/searchcustbynumber,Customers & contacts,searchCustomersbyNumber,1,Pasted text (2)(20261020-100546).txt
+GET,/searchhotelbytagsand,"Hotels, tours & suppliers",fetchHotelsbyTagsAnd,1,Pasted text (2)(20261020-100546).txt
+GET,/searchhotelbytagsor,"Hotels, tours & suppliers",fetchHotelsbyTagsOr,1,Pasted text (2)(20261020-100546).txt
+GET,/searchhotelbyusp,"Hotels, tours & suppliers",fetchHotelsbyUSP,1,Pasted text (2)(20261020-100546).txt
+GET,/searchpassivetrip,Trips & sales pipeline,searchpassiveTrips,1,Pasted text (2)(20261020-100546).txt
+GET,/searchpotentialhot,Trips & sales pipeline,searchpotentialhot,1,Pasted text (2)(20261020-100546).txt
+GET,/searchtrip,Trips & sales pipeline,searchTrips,1,Pasted text (2)(20261020-100546).txt
+GET,/searchtripbystartdate,Trips & sales pipeline,searchTripsbyStartDate,1,Pasted text (2)(20261020-100546).txt
+GET,/searchtripbystartdate3,Trips & sales pipeline,searchTripsbyStartDate3,1,Pasted text (2)(20261020-100546).txt
+GET,/searchtripbystartdateowner,Trips & sales pipeline,searchTripsbyStartDateandowner,1,Pasted text (2)(20261020-100546).txt
+GET,/startcron,AI & automation,startcron,1,Pasted text (2)(20261020-100546).txt
+GET,/stopcron,AI & automation,stopcron,1,Pasted text (2)(20261020-100546).txt
+GET,/supplierdataentry/,"Hotels, tours & suppliers",fetchSupplierbyId,1,Pasted text (2)(20261020-100546).txt
+GET,/taskcreatedbyassigned,Tasks & projects,fetchTaskbyassigned,1,Pasted text (2)(20261020-100546).txt
+GET,/taskcreatedbycreated,Tasks & projects,fetchTaskbyassignedby,1,Pasted text (2)(20261020-100546).txt
+GET,/taskcreatedbydate,Tasks & projects,fetchTaskbycreateddate,1,Pasted text (2)(20261020-100546).txt
+GET,/taskcreatedbystatus,Tasks & projects,fetchTaskbystatus,1,Pasted text (2)(20261020-100546).txt
+GET,/taskdataentry/,Tasks & projects,fetchTaskbyId,1,Pasted text (2)(20261020-100546).txt
+GET,/taskupdatedbydate,Tasks & projects,fetchTaskbyupdateddate,1,Pasted text (2)(20261020-100546).txt
+GET,/teamdatasearch/,General / unclassified,fetchTeambyName,1,Pasted text (2)(20261020-100546).txt
+GET,/testfunction,AI & automation,analyzeDocumentsviaAI; fetchtestfunction,2,Pasted text (2)(20261020-100546).txt
+GET,/threedayprojection,Analytics & reporting,threedayprojection,1,Pasted text (2)(20261020-100546).txt
+GET,/tlupdate,General / unclassified,settlupdate,1,Pasted text (2)(20261020-100546).txt
+GET,/todaysignin,Authentication & session,todaysignin,1,Pasted text (2)(20261020-100546).txt
+GET,/tourdataentry/,"Hotels, tours & suppliers",fetchTourbyId,1,Pasted text (2)(20261020-100546).txt
+GET,/tripdataentry/,Trips & sales pipeline,fetchTripbyId,1,Pasted text (2)(20261020-100546).txt
+GET,/tripdataentry2/,Trips & sales pipeline,fetchTripbyId2,1,Pasted text (2)(20261020-100546).txt
+GET,/updatetourrates/,"Hotels, tours & suppliers",updatetourrates,1,Pasted text (2)(20261020-100546).txt
+GET,/viewdocs,"Visa, documents & files",viewfiles,1,Pasted text (2)(20261020-100546).txt
+PATCH,/custdataentry/,Customers & contacts,updateCustdata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/employeedataentry/,"HR, attendance & assets",updateEmployeedata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/fixdupcustcheck,Customers & contacts,fixdupcust,1,Pasted text (2)(20261020-100546).txt
+PATCH,/hoteldataentry/,"Hotels, tours & suppliers",updateHoteldata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/lead/,Leads & lead acquisition,updateLeaddata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/projectdataentry/,Tasks & projects,updateProjectdata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/querydataupdate/,Tasks & projects,updateQuery,1,Pasted text (2)(20261020-100546).txt
+PATCH,/quotedataentry/,Quotations & proposals,updatequoteData,1,Pasted text (2)(20261020-100546).txt
+PATCH,/supplierdataentry/,"Hotels, tours & suppliers",updateSupplierdata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/tourdataentry/,"Hotels, tours & suppliers",gettouritinerary; updateTourdata,2,Pasted text (2)(20261020-100546).txt
+PATCH,/tripdataentry/,Trips & sales pipeline,updateTripdata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updateasset/,"HR, attendance & assets",updateAssetdata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatecand/,"HR, attendance & assets",updateCandidate,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatecurrency,"Finance, payments & currency",updateCurrencyData,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatecustowner/,Customers & contacts,newupdateCustdata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatefd/,General / unclassified,updateFd,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updateflightconfbooking,Flights & air bookings,updateflightdata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updateincentive,"Finance, payments & currency",updateincentive,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatelead/,Leads & lead acquisition,newupdateLeaddata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatelead3/,Leads & lead acquisition,newupdateLeaddata3,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updateleadrules/,Leads & lead acquisition,updateRulesdata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatereadflag/,General / unclassified,updatereadflag,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updaterezconfbooking,Flights & air bookings,updateRezdata,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatesuperhot,Trips & sales pipeline,updatesuperhot,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatesvToken,Authentication & session,updatesvtoken,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatetask,Tasks & projects,updateTask,1,Pasted text (2)(20261020-100546).txt
+PATCH,/updatetoken,Authentication & session,updateTokenData,1,Pasted text (2)(20261020-100546).txt
+POST,/aidataquery,AI & automation,aiquery,1,Pasted text (2)(20261020-100546).txt
+POST,/aidocumentextract,AI & automation,analyzeDocumentviaAI,1,Pasted text (2)(20261020-100546).txt
+POST,/aimultidocumentextract,AI & automation,analyzeDocumentsviaAI,1,Pasted text (2)(20261020-100546).txt
+POST,/analyze-s3,"Visa, documents & files",analyzedocs,1,Pasted text (2)(20261020-100546).txt
+POST,/autob2s,AI & automation,autob2s,1,Pasted text (2)(20261020-100546).txt
+POST,/bookflight,Flights & air bookings,fetchbook,1,Pasted text (2)(20261020-100546).txt
+POST,/bulkmsg1,"Marketing, messaging & telephony",bulkmsg,1,Pasted text (2)(20261020-100546).txt
+POST,/cancelflight,Flights & air bookings,cancelflight,1,Pasted text (2)(20261020-100546).txt
+POST,/claudecallinsight/start,AI & automation,startclaudecallinsight,1,Pasted text (2)(20261020-100546).txt
+POST,/claudecallinsight/status,AI & automation,getclaudecallinsightstatus,1,Pasted text (2)(20261020-100546).txt
+POST,/createcand,"HR, attendance & assets",addCandidate,1,Pasted text (2)(20261020-100546).txt
+POST,/createfd,General / unclassified,addFd,1,Pasted text (2)(20261020-100546).txt
+POST,/createtask,Tasks & projects,addTask,1,Pasted text (2)(20261020-100546).txt
+POST,/custdataentry,Customers & contacts,addCustomer,1,Pasted text (2)(20261020-100546).txt
+POST,/duptripentry,Trips & sales pipeline,adddupTrip,1,Pasted text (2)(20261020-100546).txt
+POST,/employeedataentry,"HR, attendance & assets",addEmployee,1,Pasted text (2)(20261020-100546).txt
+POST,/farequote,Flights & air bookings,fetchfarequote,1,Pasted text (2)(20261020-100546).txt
+POST,/farerule,Flights & air bookings,fetchfarerule,1,Pasted text (2)(20261020-100546).txt
+POST,/fetchstatusbyids,Trips & sales pipeline,fetchtripstatusoftripids,1,Pasted text (2)(20261020-100546).txt
+POST,/fetchsvToken,Authentication & session,fetchsvToken,1,Pasted text (2)(20261020-100546).txt
+POST,/fetchtoken,Authentication & session,fetchToken,1,Pasted text (2)(20261020-100546).txt
+POST,/freezeprofit,AI & automation,freezeprofit,1,Pasted text (2)(20261020-100546).txt
+POST,/genserverpdf,Configuration & integrations,fetchPDFbyId,1,Pasted text (2)(20261020-100546).txt
+POST,/getaiinfo,AI & automation,getaiinfo,1,Pasted text (2)(20261020-100546).txt
+POST,/getanalyze-s3,"Visa, documents & files",getanalyzedocsresult,1,Pasted text (2)(20261020-100546).txt
+POST,/getdetails,AI & automation,fetchdetails,1,Pasted text (2)(20261020-100546).txt
+POST,/getflightcp,Flights & air bookings,getcpafterflightbooking,1,Pasted text (2)(20261020-100546).txt
+POST,/getinsight,AI & automation,getinsightviaapi,1,Pasted text (2)(20261020-100546).txt
+POST,/getourbydesc,"Hotels, tours & suppliers",gettoursbydesc,1,Pasted text (2)(20261020-100546).txt
+POST,/gettouritinerary,"Hotels, tours & suppliers",gettouritinerary,1,Pasted text (2)(20261020-100546).txt
+POST,/gettripfromleadidlist,Leads & lead acquisition,gettripfromleadidlist,1,Pasted text (2)(20261020-100546).txt
+POST,/gmailSend,AI & automation,gmailSend,1,Pasted text (2)(20261020-100546).txt
+POST,/hoteldataentry,"Hotels, tours & suppliers",addHotel,1,Pasted text (2)(20261020-100546).txt
+POST,/imgupload,"Visa, documents & files",imgupload,1,Pasted text (2)(20261020-100546).txt
+POST,/lead,Leads & lead acquisition,addLead,1,Pasted text (2)(20261020-100546).txt
+POST,/leadtripdataentry,Leads & lead acquisition,addleadTrip,1,Pasted text (2)(20261020-100546).txt
+POST,/listleadsdata/leadbynumber2,Leads & lead acquisition,fetchleadsbynumber2,1,Pasted text (2)(20261020-100546).txt
+POST,/listtripsdata/duptripsbynumber,Trips & sales pipeline,fetchdupTripsbyNumber,1,Pasted text (2)(20261020-100546).txt
+POST,/listtripsdata/searchtripsbynumber,Trips & sales pipeline,fetchTripsbyNumber2,1,Pasted text (2)(20261020-100546).txt
+POST,/loadattendance,"HR, attendance & assets",loadattendance,1,Pasted text (2)(20261020-100546).txt
+POST,/loadflightbooikng,Flights & air bookings,addflightData,1,Pasted text (2)(20261020-100546).txt
+POST,/loadrezbooikng,Flights & air bookings,addrezData,1,Pasted text (2)(20261020-100546).txt
+POST,/loginemail,Authentication & session,loginemail,1,Pasted text (2)(20261020-100546).txt
+POST,/makecall,"Marketing, messaging & telephony",makecall,1,Pasted text (2)(20261020-100546).txt
+POST,/projectdataentry,Tasks & projects,addProject,1,Pasted text (2)(20261020-100546).txt
+POST,/puppeteer,AI & automation,puppeteertest,1,Pasted text (2)(20261020-100546).txt
+POST,/querydataentry,Tasks & projects,addQuery,1,Pasted text (2)(20261020-100546).txt
+POST,/quotedataentry,Quotations & proposals,addquoteData,1,Pasted text (2)(20261020-100546).txt
+POST,/quotepdf/,Quotations & proposals,quotepdf,1,Pasted text (2)(20261020-100546).txt
+POST,/refreshsvToken,Authentication & session,refreshsvToken,1,Pasted text (2)(20261020-100546).txt
+POST,/refreshtctoken,Authentication & session,refreshTCToken,1,Pasted text (2)(20261020-100546).txt
+POST,/releasepnr,Flights & air bookings,releasepnr,1,Pasted text (2)(20261020-100546).txt
+POST,/requeststatus,General / unclassified,requeststatus,1,Pasted text (2)(20261020-100546).txt
+POST,/rezbook,Flights & air bookings,rzbookhotel,1,Pasted text (2)(20261020-100546).txt
+POST,/rezbookingdetails,AI & automation,rzbookingdetails,1,Pasted text (2)(20261020-100546).txt
+POST,/rezcondetails,AI & automation,rzcondetails,1,Pasted text (2)(20261020-100546).txt
+POST,/rezcpafterbooking,Flights & air bookings,rzcpafterbooking,1,Pasted text (2)(20261020-100546).txt
+POST,/rezcpbooking,Flights & air bookings,rzcpbooking,1,Pasted text (2)(20261020-100546).txt
+POST,/rezhotelcancel,Flights & air bookings,rzhotelcancel,1,Pasted text (2)(20261020-100546).txt
+POST,/rezhoteldetails,AI & automation,rzhoteldetails,1,Pasted text (2)(20261020-100546).txt
+POST,/rezprebookbydest,Flights & air bookings,rzprebookhotelbydest,1,Pasted text (2)(20261020-100546).txt
+POST,/rezsearchbydest,Flights & air bookings,rzsearchhotelbydest,1,Pasted text (2)(20261020-100546).txt
+POST,/rezsearchbyid,Flights & air bookings,rzsearchhotelbyid,1,Pasted text (2)(20261020-100546).txt
+POST,/savesignin,Authentication & session,savesignin,1,Pasted text (2)(20261020-100546).txt
+POST,/searchflights,Flights & air bookings,fetchflights,1,Pasted text (2)(20261020-100546).txt
+POST,/searchtravclanflight,Flights & air bookings,searchTCflight,1,Pasted text (2)(20261020-100546).txt
+POST,/sendPurchaseToMeta,"Finance, payments & currency",sendpurchasetoMeta,1,Pasted text (2)(20261020-100546).txt
+POST,/sendggcampaign,AI & automation,ggwacampaign,1,Pasted text (2)(20261020-100546).txt
+POST,/sendggcampaign2,AI & automation,ggwacampaign2,1,Pasted text (2)(20261020-100546).txt
+POST,/sendggcampaign3,AI & automation,ggwacampaign3,1,Pasted text (2)(20261020-100546).txt
+POST,/sendggcampaign4,AI & automation,ggwacampaign4,1,Pasted text (2)(20261020-100546).txt
+POST,/sendmail3,AI & automation,sendmailtoteam,1,Pasted text (2)(20261020-100546).txt
+POST,/ssr,Flights & air bookings,fetchssr,1,Pasted text (2)(20261020-100546).txt
+POST,/start-chat,"Marketing, messaging & telephony",startchat,1,Pasted text (2)(20261020-100546).txt
+POST,/submitreport,Analytics & reporting,addtlreport,1,Pasted text (2)(20261020-100546).txt
+POST,/supplierdataentry,"Hotels, tours & suppliers",addSupplier,1,Pasted text (2)(20261020-100546).txt
+POST,/tclead,Leads & lead acquisition,TestTC; addTCLeads,2,Pasted text (2)(20261020-100546).txt
+POST,/ticket,Flights & air bookings,fetchticket,1,Pasted text (2)(20261020-100546).txt
+POST,/tourdataentry,"Hotels, tours & suppliers",addTour,1,Pasted text (2)(20261020-100546).txt
+POST,/tripdatadelete,Trips & sales pipeline,deleteTripbyId,1,Pasted text (2)(20261020-100546).txt
+POST,/tripdataentry,Trips & sales pipeline,addTrip,1,Pasted text (2)(20261020-100546).txt
+POST,/updateflightstatus,Flights & air bookings,updateTripflightdata,1,Pasted text (2)(20261020-100546).txt
+POST,/updatelogout,Authentication & session,updatelogout,1,Pasted text (2)(20261020-100546).txt
+POST,/updatequerychat,"Marketing, messaging & telephony",updateQuerychat,1,Pasted text (2)(20261020-100546).txt
+POST,/updatequeryprice,Tasks & projects,updateQueryprice,1,Pasted text (2)(20261020-100546).txt
+POST,/updatereport,Analytics & reporting,updatetlreport,1,Pasted text (2)(20261020-100546).txt
+POST,/uploadmultipledocs,"Visa, documents & files",uploadmultiplefile,1,Pasted text (2)(20261020-100546).txt
+POST,/verifytoken,Authentication & session,verifytoken,1,Pasted text (2)(20261020-100546).txt
+POST,/wamsg,"Marketing, messaging & telephony",addMsg,1,Pasted text (2)(20261020-100546).txt
+POST,/wareportentry,Analytics & reporting,addWAreport,1,Pasted text (2)(20261020-100546).txt
+POST,/weblead,Leads & lead acquisition,addInternalLead,1,Pasted text (2)(20261020-100546).txt
